@@ -1,0 +1,204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GCCPay Payment for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-14 21:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.2; wp-5.4"
+
+#. Author of the plugin
+msgid "Ali Basheer"
+msgstr ""
+
+#: woo-gccpay.php:87
+msgid "Allows MasterCard Payment Gateway Services (GCCPay)"
+msgstr ""
+
+#: woo-gccpay.php:155
+msgid "API Version"
+msgstr ""
+
+#: woo-gccpay.php:157
+msgid "API version"
+msgstr ""
+
+#: woo-gccpay.php:170 woo-gccpay.php:173
+msgid "Authentication Password"
+msgstr ""
+
+#: woo-gccpay.php:172
+msgid "Authentication Password, given by the GCCPay"
+msgstr ""
+
+#: woo-gccpay.php:195
+msgid "Checkout Interaction"
+msgstr ""
+
+#: woo-gccpay.php:197
+msgid "Choose checkout interaction type"
+msgstr ""
+
+#: woo-gccpay.php:35
+msgid "Configure"
+msgstr ""
+
+#: woo-gccpay.php:128
+msgid "Credit Card"
+msgstr ""
+
+#: woo-gccpay.php:132
+msgid "Description"
+msgstr ""
+
+#: woo-gccpay.php:121
+msgid "Enable MPGS Payment Module."
+msgstr ""
+
+#: woo-gccpay.php:119
+msgid "Enable/Disable"
+msgstr ""
+
+#: woo-gccpay.php:142
+msgid "Enter an image URL to change the icon."
+msgstr ""
+
+#. Description of the plugin
+msgid "Extends WooCommerce with MasterCard Payment Gateway Services (GCCPay)."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/SGATE-IT/woo-gccpay"
+msgstr ""
+
+#: woo-gccpay.php:151
+msgid "https://www.gccpay.com/"
+msgstr ""
+
+#: woo-gccpay.php:139
+msgid "Icon"
+msgstr ""
+
+#: woo-gccpay.php:332
+msgid "Loading payment method, please wait. This may take up to 30 seconds."
+msgstr ""
+
+#: woo-gccpay.php:183
+msgid "Merchant Address Line 1"
+msgstr ""
+
+#: woo-gccpay.php:185
+msgid "Merchant Address Line 1 that will appear in the gateway page or popup"
+msgstr ""
+
+#: woo-gccpay.php:189
+msgid "Merchant Address Line 2"
+msgstr ""
+
+#: woo-gccpay.php:191
+msgid "Merchant Address Line 2 that will appear in the gateway page or popup"
+msgstr ""
+
+#: woo-gccpay.php:163
+msgid "Merchant ID"
+msgstr ""
+
+#: woo-gccpay.php:165
+msgid "Merchant ID, given by the Gccpay"
+msgstr ""
+
+#: woo-gccpay.php:179
+msgid "Merchant name that will appear in the gateway page or popup"
+msgstr ""
+
+#: woo-gccpay.php:86
+msgid "MPGS"
+msgstr ""
+
+#: woo-gccpay.php:158
+msgid "GCCPay API Version (1 is recommended)"
+msgstr ""
+
+#: woo-gccpay.php:373
+#, php-format
+msgid "MPGS Payment completed with Transaction Receipt: %s."
+msgstr ""
+
+#: woo-gccpay.php:71
+#, php-format
+msgid ""
+"MPGS requires WooCommerce to be installed and active. You can download %s "
+"here."
+msgstr ""
+
+#: woo-gccpay.php:146 woo-gccpay.php:150
+msgid "MPGS URL"
+msgstr ""
+
+#: woo-gccpay.php:149
+msgid ""
+"MPGS URL, given by the Bank. This is an example: https://ap-gateway."
+"mastercard.com/"
+msgstr ""
+
+#: woo-gccpay.php:177
+msgid "Name"
+msgstr ""
+
+#: woo-gccpay.php:289
+#, php-format
+msgid "Pay for order #%d via %s"
+msgstr ""
+
+#: woo-gccpay.php:135
+msgid "Pay securely by Credit/Debit Card."
+msgstr ""
+
+#: woo-gccpay.php:261
+msgid "Payment error: "
+msgstr ""
+
+#: woo-gccpay.php:234
+msgid ""
+"Payment error: Failed to communicate with MPGS server. Make sure MPGS URL "
+"looks like `https://example.mastercard.com/` by removing "
+"`checkout/version/*/checkout.js` and end the URL with a slash \"/\"."
+msgstr ""
+
+#: woo-gccpay.php:384 woo-gccpay.php:385
+msgid "Payment error: Invalid transaction."
+msgstr ""
+
+#: woo-gccpay.php:338
+msgid "Payment error: Session not found."
+msgstr ""
+
+#: woo-gccpay.php:379 woo-gccpay.php:380
+msgid "Payment error: Something went wrong."
+msgstr ""
+
+#: woo-gccpay.php:134
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: woo-gccpay.php:127
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+
+#: woo-gccpay.php:125
+msgid "Title"
+msgstr ""
+
+#. Name of the plugin
+msgid "GCCPay Payment for WooCommerce"
+msgstr ""
